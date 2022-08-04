@@ -107,7 +107,7 @@ export const parameters = {
 
 When the locale has been changed, an `event is emitted on the addons-channel`.
 
-You can `subscribe to this event in your preview.js`, to configure global environment settings yourself, related to your i18n-config.
+You can `subscribe to this event in your preview.js` to configure global environment settings yourself, related to your i18n-config.
 
 The event is emmited with the `selected locale as a parameter`.
 
